@@ -1,0 +1,5 @@
+export * from './actions.type'
+export * from './coordinates.type'
+export * from './information.type'
+export * from './instruction.type'
+export * from './orientation.type'
